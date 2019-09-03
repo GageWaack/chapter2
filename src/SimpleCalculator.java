@@ -9,12 +9,12 @@ public class SimpleCalculator {
         long l = 190000000000000L;
         short s = 32767;
 
-        System.out.println(x + " integer data type number is how large a data set you can use it is also\n" +
-                "4 bytes in size");
-        System.out.println(y + " number is larger then a int but in decimals");
-        System.out.println(z + " a byte data type is rather small in size and is only one byte");
-        System.out.println(l + " long data type is the largest and takes 8 bytes.");
-        System.out.println(s + " short data type is only 2 bytes of memory");
+//        System.out.println(x + " integer data type number is how large a data set you can use it is also\n" +
+//                "4 bytes in size");
+//        System.out.println(y + " number is larger then a int but in decimals");
+//        System.out.println(z + " a byte data type is rather small in size and is only one byte");
+//        System.out.println(l + " long data type is the largest and takes 8 bytes.");
+//        System.out.println(s + " short data type is only 2 bytes of memory");
 
         double entry1;
         double entry2;
