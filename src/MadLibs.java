@@ -7,9 +7,9 @@ public class MadLibs {
         String bodyPart;
 
 
-        int a;
-        int b;
-        int c;
+        int a = 1;
+        int b = 1;
+        int c = 1;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a color >>>");
