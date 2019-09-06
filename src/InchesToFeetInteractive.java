@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InchesToFeet {
+public class InchesToFeetInteractive {
     public static void main(String[] args) {
         int feet;
         final int INCHES = 12;
@@ -13,9 +13,9 @@ public class InchesToFeet {
 
         feet = input / INCHES;
 
-        inchesRemaining = INCHES % 4;
+        inchesRemaining = input % 12;
 
-        System.out.println("There is "+ feet+ "in "+input+ " You have "+ inchesRemaining + "inches leftover");
+        System.out.println("There is "+ feet+ " feet in " +input+ " inches, you have "+ inchesRemaining + " inches leftover");
 
     }
 }
