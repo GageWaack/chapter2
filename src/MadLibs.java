@@ -23,6 +23,6 @@ public class MadLibs {
         c = a%b;
 
         System.out.println("The " + color + " Dragon is the " + WordEst + " Dragon of all. ");
-        System.out.println("");
+        System.out.println("The "+WordEst+ "Dragon also had a "+ bodyPart);
     }
 }
